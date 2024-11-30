@@ -1,6 +1,6 @@
 # GoTech
 
-**Identidad de Marca para una Empresa de maletas, bolsos y billeteras**
+**Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje **
 
 **1. Portada**
 
