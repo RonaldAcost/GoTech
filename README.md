@@ -6,7 +6,8 @@
 
 - **Nombre de la Marca**: GoTech
 - **Eslogan**: "Tecnología que te acompaña, libertad que te inspira"
-- **Logotipo**: [([imagen del logotipo](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp))](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp)
+- **Logotipo**:
+![([imagen del logotipo](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp))](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp)
   - **Descripción del Logo**: "Un globo terráqueo con líneas conectadas formando una red digital similar a circuitos, con un símbolo de brújula en el centro. El estilo es futurista, con una estética brillante y metálica, usando colores azul eléctrico y verde neón."
 
 **2. Identidad de Marca**
