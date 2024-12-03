@@ -75,3 +75,30 @@
 **4. Conclusión**
 GoTech es más que una marca de accesorios de viaje; es un compañero que comparte la pasión por la exploración. Nos comprometemos a hacer que cada viaje sea ligero, cómodo y memorable, mientras protegemos el planeta para futuras aventuras.
 
+# GoTech R-28 
+
+# Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
+### Generación de Imágenes y Campañas Publicitarias:  
+
+#### Maleta Futurista en el Aeropuerto  
+*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado.*  
+#GoTech #ViajarConEstilo #TecnologíaQueInspira"  
+
+**Imagen 1:** Generada con (Ideagram AI)  
+
+**Imagen 2:** Generada con (DALL-E)  
+
+**Imagen 3:** Generada con (Ideagram AI)  
+
+#### Maleta Futurista en el Aeropuerto  
+*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado.*  
+#GoTech #ViajarConEstilo #TecnologíaQueInspira"  
+
+**Imagen 4:** Generada con (Ideagram AI)  
+**Imagen 5:** Generada con (DALL-E)  
+
+#### Maleta Futurista en el Aeropuerto  
+*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado.*  
+#GoTech #ViajarConEstilo #TecnologíaQueInspira"  
+
+**Imagen 6:** Generada con (Ideagram AI)  
