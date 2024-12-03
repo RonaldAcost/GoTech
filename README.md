@@ -7,7 +7,7 @@
 - **Nombre de la Marca**: GoTech
 - **Eslogan**: "Tecnología que te acompaña, libertad que te inspira"
 - **Logotipo**:
-![([Logo GoTech](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/logo%20trasparente.png?raw=true)
+!(logo)[![image](https://github.com/user-attachments/assets/66255eda-d46e-47b4-94ef-1a9e6a4df574)
   - **Descripción del Logo**: "Un globo terráqueo con líneas conectadas formando una red digital similar a circuitos, con un símbolo de brújula en el centro. El estilo es futurista, con una estética brillante y metálica, usando colores azul eléctrico y verde neón."
 
 **2. Identidad de Marca**
@@ -48,7 +48,7 @@
   - "Estilo y funcionalidad, siempre contigo."
   - **Explicación**: Estos mensajes reflejan la identidad de la marca al resaltar la combinación de tecnología, estilo y practicidad que ofrecemos, alineándose con el estilo de vida del viajero moderno.
 
-**3. Redacción de Descripciones de Productos**
+**2. Redacción de Descripciones de Productos**
 
 - **Descripción de Producto 1 (Maleta)**:
   - "Nuestra maleta GoTech está diseñada pensando en los nómadas digitales. Con un material resistente y compartimentos inteligentes, permite mantenerte organizado sin esfuerzo. La tecnología integrada te brinda conectividad para un viaje seguro y eficiente."
@@ -59,7 +59,7 @@
 - **Tono de Marca**:
   - **Elegante, Confiable y Práctico**: Queremos conectar con una audiencia moderna y dinámica que aprecia el estilo tanto como la funcionalidad. El tono de comunicación es cercano, motivador y enfocado en las necesidades de los viajeros actuales.
 
-**4. Estrategia de Marketing Digital Inicial**
+**3. Estrategia de Marketing Digital Inicial**
 
 - **Calendario de Publicaciones (2-3 semanas)**:
   - **Semana 1**: Publicación de una imagen promocional del bolso en Instagram y Facebook. Destacar su estilo y funcionalidad.
@@ -72,6 +72,6 @@
 - **Frecuencia de Publicación**:
   - **3 veces por semana**: Enfocándonos los lunes en destacar un producto, los miércoles en mensajes inspiradores sobre la libertad de viajar, y los viernes en mostrar testimonios o consejos útiles para los nómadas digitales.
 
-**5. Conclusión**
+**4. Conclusión**
 GoTech es más que una marca de accesorios de viaje; es un compañero que comparte la pasión por la exploración. Nos comprometemos a hacer que cada viaje sea ligero, cómodo y memorable, mientras protegemos el planeta para futuras aventuras.
 
