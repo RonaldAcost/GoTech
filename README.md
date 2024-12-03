@@ -1,4 +1,4 @@
-# GoTech
+# GoTech R-26 
 
 **Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje **
 
@@ -25,25 +25,19 @@
 
 - "Somos la única marca que integra tecnología inteligente directamente en maletas, bolsos y billeteras, ofreciendo comodidad, seguridad y conectividad en un solo producto. Con materiales sostenibles y un enfoque en la innovación, nuestros accesorios no solo acompañan, sino que potencian la experiencia del nómada digital."
 
-**Identidad de Marca para una Empresa de Accesorios de Viaje**
+# GoTech R-27 
 
-**1. Portada**
+**Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje **
 
-- **Nombre de la Marca**: GoTech
-- **Eslogan**: "Tecnología que te acompaña, libertad que te inspira"
-- **Logotipo**: (imagen del logotipo)
-![([Logo GoTech](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp))](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp)
-  - **Descripción del Logo**: "Un globo terráqueo con líneas conectadas formando una red digital similar a circuitos, con un símbolo de brújula en el centro. El estilo es futurista, con una estética brillante y metálica, usando colores azul eléctrico y verde neón."
-
-**2. Sección de Contenido Visual para Redes Sociales**
+**1. Sección de Contenido Visual para Redes Sociales**
 
 - **Imágenes Promocionales**:
   - **Imagen 1**: (imagen generada con Canva)
-![([Logo GoTech](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp))](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp)
+![imagen1 bolsa](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%201%20maleta..jpg?raw=true)
     - **Descripción**: "Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."
     - **Edición en Canva**: Se aplicaron colores que transmiten modernidad (azul eléctrico y verde neón) y se usó tipografía elegante para resaltar el mensaje.
   - **Imagen 2**: (imagen generada con Canva)
-![([Logo GoTech](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp))](https://raw.githubusercontent.com/RonaldAcost/GoTech/refs/heads/proyectodemoprewor/DALL%C2%B7E%202024-11-30%2000.24.44%20-%20A%20futuristic%20logo%20design%20featuring%20a%20globe%20with%20connected%20lines%20for.webp)
+![Imagen 2 maleta](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%202%20maleta%20._.jpg?raw=true)
     - **Descripción**: "La maleta futurista, diseñada para la máxima comodidad, es destacada en este entorno de aeropuerto, simbolizando seguridad y conectividad."
     - **Edición en Canva**: Se agregó un filtro brillante para enfatizar la calidad premium y se ajustaron colores para que coincidan con la identidad visual de la marca.
 
