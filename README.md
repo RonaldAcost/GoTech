@@ -85,11 +85,11 @@ GoTech es más que una marca de accesorios de viaje; es un compañero que compar
 ## Maleta Futurista en el Aeropuerto
 *"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
 **#GoTech #ViajarConEstilo #TecnologíaQueInspira**
-
+![maleta](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/1.maleta.png?raw=true)
 - **Imagen 1:** Generada con (*Ideagram AI*)  
 
 
-## Maleta Futurista en el Aeropuerto
+## b.	Nómada digital en el acantilado 
 *"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
 **#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 
