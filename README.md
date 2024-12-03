@@ -1,6 +1,6 @@
 # GoTech R-26 
 
-***Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje ***
+# Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
 
 **1. Portada**
 
@@ -27,7 +27,7 @@
 
 # GoTech R-27 
 
-***Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje ***
+# Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
 
 **1. Sección de Contenido Visual para Redes Sociales**
 
