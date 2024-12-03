@@ -80,25 +80,24 @@ GoTech es más que una marca de accesorios de viaje; es un compañero que compar
 # Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
 ### Generación de Imágenes y Campañas Publicitarias:  
 
-#### Maleta Futurista en el Aeropuerto  
-*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado.*  
-#GoTech #ViajarConEstilo #TecnologíaQueInspira"  
+# Generación de Imágenes y Campañas Publicitarias
 
-**Imagen 1:** Generada con (Ideagram AI)  
+## Maleta Futurista en el Aeropuerto
+*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
+**#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 
-**Imagen 2:** Generada con (DALL-E)  
+- **Imagen 1:** Generada con (*Ideagram AI*)  
 
-**Imagen 3:** Generada con (Ideagram AI)  
 
-#### Maleta Futurista en el Aeropuerto  
-*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado.*  
-#GoTech #ViajarConEstilo #TecnologíaQueInspira"  
+## Maleta Futurista en el Aeropuerto
+*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
+**#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 
-**Imagen 4:** Generada con (Ideagram AI)  
-**Imagen 5:** Generada con (DALL-E)  
+- **Imagen 2:** Generada con (*DALL-E*)  
+ 
 
-#### Maleta Futurista en el Aeropuerto  
-*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado.*  
-#GoTech #ViajarConEstilo #TecnologíaQueInspira"  
+## Maleta Futurista en el Aeropuerto
+*"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
+**#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 
-**Imagen 6:** Generada con (Ideagram AI)  
+- **Imagen 6:** Generada con (*Ideagram AI*)  
