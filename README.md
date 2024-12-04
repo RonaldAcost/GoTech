@@ -37,21 +37,21 @@
 - **Imágenes Promocionales**:
 
 ![imagen1 bolsa](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%201%20maleta..jpg?raw=true)
-   - **Imagen 1**: (imagen generada con Canva)
+   > **Imagen 1**: (imagen generada con Canva)
 
 
    - **Descripción**: "Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."
 ![Imagen cava 1](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Go.png?raw=true)
-  - **Imagen 2**: (imagen generada con Canva)
+   > **Imagen 2**: (imagen generada con Canva)
   - 
    - **Edición en Canva**: Se aplicaron colores que transmiten modernidad (azul eléctrico y verde neón) y se usó tipografía elegante para resaltar el mensaje.
 
 ![Imagen 2 maleta](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%202%20maleta%20._.jpg?raw=true)
-   - **Imagen 3**: (imagen generada con Canva)
+   > **Imagen 3**: (imagen generada con Canva)
    - 
    - **Descripción**: "La maleta futurista, diseñada para la máxima comodidad, es destacada en este entorno de aeropuerto, simbolizando seguridad y conectividad."
 ![Imagen cava 2](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Maleta%202.png?raw=true)
-   - **Imagen 4**: (imagen generada con Canva)
+   > **Imagen 4**: (imagen generada con Canva)
 
    - **Edición en Canva**: Se agregó un filtro brillante para enfatizar la calidad premium y se ajustaron colores para que coincidan con la identidad visual de la marca.
 
@@ -95,31 +95,31 @@
 *"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
 **#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 ![maleta](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/1.maleta.png?raw=true)
-  - **Imagen 1:** Generada con (*Ideagram AI*)  
+   > **Imagen 1:** Generada con (*Ideagram AI*)  
 
 ## b.	Nómada digital en el acantilado 
 *"Libertad, conexión y aventura, todo en un solo lugar. Con GoTech, tus dispositivos se mantienen cargados mientras exploras el mundo. Diseño sustentable, tecnología avanzada, y el horizonte como límite. #ViveConectado #ExploraConGoTech #NómadasDigitales" *  
 **#ViveConectado #ExploraConGoTech #NómadasDigitales**
 ![nomada](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/2.nomada.png?raw=true)
-  - **Imagen 2:** Generada con (*DALL-E*)  
+   > **Imagen 2:** Generada con (*DALL-E*)  
  
 ## c.	Calle urbana con el bolso GoTech  
 *"Diseñado para la ciudad del futuro. El bolso inteligente GoTech no solo te acompaña, sino que ilumina tu camino. Estilo vanguardista, conectividad y elegancia en cada detalle. Muévete con confianza. " *  
 **#EstiloCyberpunk #GoTechEnLaCiudad #InnovaciónUrbana**
 ![calle](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/3.urbano.png?raw=true)
-  - **Imagen 3:** Generada con (*Ideagram AI*)  
+   > **Imagen 3:** Generada con (*Ideagram AI*)  
 
 ## d.Primer plano de la billetera GoTech  
 *"Tecnología y sostenibilidad en el bolsillo. La billetera GoTech es el accesorio perfecto para el viajero consciente. Con materiales ecológicos y funciones inteligentes, ofrece seguridad y estilo sin comprometer el planeta. " *  
 **#SostenibilidadConEstilo #EleganciaGoTech #ViajesResponsables**
 ![billetera](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4.billetera.png?raw=true)
-  - **Imagen 4:** Generada con (*Ideagram AI*)
+   > **Imagen 4:** Generada con (*Ideagram AI*)
 
 ![wallet](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4_billetera.png?raw=true)
-  - **Imagen 5:** Generada con (*DALL-E*)
+   > **Imagen 5:** Generada con (*DALL-E*)
 
 - ## e.	Estación de tren futurista con viajeros GoTech  
 *"Viaja más allá del presente. En la estación del mañana, GoTech está a tu lado. Maletas inteligentes, bolsos multifuncionales y una comunidad conectada que comparte el camino. Innovación y sostenibilidad para cada paso de tu aventura. " *  
 **#FuturoConGoTech #ViajesSinLímites #ConectividadEnMovimiento"**
 ![estacion](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/5.estacion.png?raw=true)
-  - **Imagen 6:** Generada con (*Ideagram AI*)
+   > **Imagen 6:** Generada con (*Ideagram AI*)
