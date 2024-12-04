@@ -1,4 +1,5 @@
-# GoTech R-26 
+<h1 align="center">GoTech R-26</h1>
+
 
 # Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
 
@@ -9,11 +10,7 @@
 - **Logotipo**:
 ![image](https://github.com/user-attachments/assets/66255eda-d46e-47b4-94ef-1a9e6a4df574)
 > **Imagen 1:** Generada con (DALL-E)
-<p align="center">
-  <blockquote>
-    Esta es una cita centrada.
-  </blockquote>
-</p>
+
 
 - **Descripción del Logo**: "Un globo terráqueo con líneas conectadas formando una red digital similar a circuitos, con un símbolo de brújula en el centro. El estilo es futurista, con una estética brillante y metálica, usando colores azul eléctrico y verde neón."
 
