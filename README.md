@@ -84,28 +84,27 @@
 *"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
 **#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 ![maleta](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/1.maleta.png?raw=true)
-- **Imagen 1:** Generada con (*Ideagram AI*)  
-
+  - **Imagen 1:** Generada con (*Ideagram AI*)  
 
 ## b.	Nómada digital en el acantilado 
 *"Libertad, conexión y aventura, todo en un solo lugar. Con GoTech, tus dispositivos se mantienen cargados mientras exploras el mundo. Diseño sustentable, tecnología avanzada, y el horizonte como límite. #ViveConectado #ExploraConGoTech #NómadasDigitales" *  
 **#ViveConectado #ExploraConGoTech #NómadasDigitales**
 ![nomada](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/2.nomada.png?raw=true)
-- **Imagen 2:** Generada con (*DALL-E*)  
+  - **Imagen 2:** Generada con (*DALL-E*)  
  
 ## c.	Calle urbana con el bolso GoTech  
 *"Diseñado para la ciudad del futuro. El bolso inteligente GoTech no solo te acompaña, sino que ilumina tu camino. Estilo vanguardista, conectividad y elegancia en cada detalle. Muévete con confianza. " *  
 **#EstiloCyberpunk #GoTechEnLaCiudad #InnovaciónUrbana**
 ![calle](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/3.urbano.png?raw=true)
-- **Imagen 3:** Generada con (*DALL-E*)  
+  - **Imagen 3:** Generada con (*Ideagram AI*)  
 
 ## d.Primer plano de la billetera GoTech  
 *"Tecnología y sostenibilidad en el bolsillo. La billetera GoTech es el accesorio perfecto para el viajero consciente. Con materiales ecológicos y funciones inteligentes, ofrece seguridad y estilo sin comprometer el planeta. " *  
 **#SostenibilidadConEstilo #EleganciaGoTech #ViajesResponsables**
 ![billetera](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4.billetera.png?raw=true)
-- **Imagen 4:** Generada con (*DALL-E*)
-- ![wallet](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4_billetera.png?raw=true)
-- **Imagen 5:** Generada con (*DALL-E*)
+  - **Imagen 4:** Generada con (*Ideagram AI*)
+![wallet](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4_billetera.png?raw=true)
+  - **Imagen 5:** Generada con (*DALL-E*)
 
 - ## e.	Estación de tren futurista con viajeros GoTech  
 *"Viaja más allá del presente. En la estación del mañana, GoTech está a tu lado. Maletas inteligentes, bolsos multifuncionales y una comunidad conectada que comparte el camino. Innovación y sostenibilidad para cada paso de tu aventura. " *  
