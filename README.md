@@ -8,6 +8,7 @@
 - **Eslogan**: "Tecnología que te acompaña, libertad que te inspira"
 - **Logotipo**:
 ![image](https://github.com/user-attachments/assets/66255eda-d46e-47b4-94ef-1a9e6a4df574)
+  - **Imagen 1:** Generada con (DALL-E)  
 - **Descripción del Logo**: "Un globo terráqueo con líneas conectadas formando una red digital similar a circuitos, con un símbolo de brújula en el centro. El estilo es futurista, con una estética brillante y metálica, usando colores azul eléctrico y verde neón."
 
 **2. Identidad de Marca**
@@ -32,15 +33,23 @@
 **1. Sección de Contenido Visual para Redes Sociales**
 
 - **Imágenes Promocionales**:
-  - **Imagen 1**: (imagen generada con Canva)
+
 ![imagen1 bolsa](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%201%20maleta..jpg?raw=true)
+  - **Imagen 1**: (imagen generada con Canva)
+
    - **Descripción**: "Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."
 ![Imagen cava 1](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Go.png?raw=true)
+  - **Imagen 2**: (imagen generada con Canva)
+  - 
    - **Edición en Canva**: Se aplicaron colores que transmiten modernidad (azul eléctrico y verde neón) y se usó tipografía elegante para resaltar el mensaje.
-   - **Imagen 2**: (imagen generada con Canva)
+
 ![Imagen 2 maleta](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%202%20maleta%20._.jpg?raw=true)
+   - **Imagen 3**: (imagen generada con Canva)
+   - 
    - **Descripción**: "La maleta futurista, diseñada para la máxima comodidad, es destacada en este entorno de aeropuerto, simbolizando seguridad y conectividad."
 ![Imagen cava 2](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Maleta%202.png?raw=true)
+   - **Imagen 4**: (imagen generada con Canva)
+
    - **Edición en Canva**: Se agregó un filtro brillante para enfatizar la calidad premium y se ajustaron colores para que coincidan con la identidad visual de la marca.
 
 - **Mensajes Publicitarios**:
