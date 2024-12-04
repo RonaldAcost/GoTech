@@ -40,6 +40,7 @@
 ![imagen1 bolsa](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%201%20maleta..jpg?raw=true)
   <h1 align="center"> Imagen 1: (imagen generada con Canva)
 
+
    - **Descripción**: "Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."
 ![Imagen cava 1](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Go.png?raw=true)
   - **Imagen 2**: (imagen generada con Canva)
