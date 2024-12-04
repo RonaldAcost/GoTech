@@ -110,4 +110,4 @@
 *"Viaja más allá del presente. En la estación del mañana, GoTech está a tu lado. Maletas inteligentes, bolsos multifuncionales y una comunidad conectada que comparte el camino. Innovación y sostenibilidad para cada paso de tu aventura. " *  
 **#FuturoConGoTech #ViajesSinLímites #ConectividadEnMovimiento"**
 ![estacion](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/5.estacion.png?raw=true)
-- **Imagen 6:** Generada con (*Ideagram AI*)
+  - **Imagen 6:** Generada con (*Ideagram AI*)
