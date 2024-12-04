@@ -9,9 +9,8 @@
 - **Eslogan**: "Tecnología que te acompaña, libertad que te inspira"
 - **Logotipo**:
 ![image](https://github.com/user-attachments/assets/66255eda-d46e-47b4-94ef-1a9e6a4df574)
-  <h1 align="center">Imagen 1: Generada con (DALL-E)
-
-
+   > **Imagen 1**: (Generada con (DALL-E)
+     
 - **Descripción del Logo**: "Un globo terráqueo con líneas conectadas formando una red digital similar a circuitos, con un símbolo de brújula en el centro. El estilo es futurista, con una estética brillante y metálica, usando colores azul eléctrico y verde neón."
 
 **2. Identidad de Marca**
@@ -38,8 +37,7 @@
 - **Imágenes Promocionales**:
 
 ![imagen1 bolsa](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%201%20maleta..jpg?raw=true)
-  <h1 align="center"> Imagen 1: (imagen generada con Canva)
-
+   - **Imagen 1**: (imagen generada con Canva)
 
 
    - **Descripción**: "Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."
