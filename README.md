@@ -78,9 +78,8 @@
 # Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
 ### Generación de Imágenes y Campañas Publicitarias:  
 
-# Generación de Imágenes y Campañas Publicitarias
 
-## Maleta Futurista en el Aeropuerto
+## a. Maleta Futurista en el Aeropuerto
 *"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
 **#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 ![maleta](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/1.maleta.png?raw=true)
@@ -103,6 +102,7 @@
 **#SostenibilidadConEstilo #EleganciaGoTech #ViajesResponsables**
 ![billetera](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4.billetera.png?raw=true)
   - **Imagen 4:** Generada con (*Ideagram AI*)
+
 ![wallet](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4_billetera.png?raw=true)
   - **Imagen 5:** Generada con (*DALL-E*)
 
