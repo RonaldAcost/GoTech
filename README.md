@@ -97,14 +97,14 @@
 *"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."*  
 **#GoTech #ViajarConEstilo #TecnologíaQueInspira**
 
-![maleta futurista](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/1.maleta.png?raw=true)  
+![1.maleta](https://github.com/RonaldAcost/GoTech/blob/master/1.maleta.png?raw=true)
 > **Imagen 1:** Generada con (Ideagram AI)
 
 ## b. Nómada digital en el acantilado
 *"Libertad, conexión y aventura, todo en un solo lugar. Con GoTech, tus dispositivos se mantienen cargados mientras exploras el mundo. Diseño sustentable, tecnología avanzada, y el horizonte como límite."*  
 **#ViveConectado #ExploraConGoTech #NómadasDigitales**
 
-![nómada digital](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/2.nomada.png?raw=true)  
+![2.nomada](https://github.com/RonaldAcost/GoTech/blob/master/2.nomada.png?raw=true)
 > **Imagen 2:** Generada con (DALL-E)
 
 ## c. Calle urbana con el bolso GoTech
