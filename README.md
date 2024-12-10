@@ -46,7 +46,7 @@
   > **Imagen 1**: (Generada con Canva)
   - **Descripción**: "Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."
 
-  ![Imagen Canva 1](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Go.png?raw=true)  
+  ![Go](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Go.png?raw=true)  
   > **Imagen 2**: (Generada con Canva)  
   - **Edición en Canva**: Se aplicaron colores que transmiten modernidad (azul eléctrico y verde neón) y se usó tipografía elegante para resaltar el mensaje.
 
