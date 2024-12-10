@@ -111,14 +111,14 @@
 *"Diseñado para la ciudad del futuro. El bolso inteligente GoTech no solo te acompaña, sino que ilumina tu camino. Estilo vanguardista, conectividad y elegancia en cada detalle. Muévete con confianza."*  
 **#EstiloCyberpunk #GoTechEnLaCiudad #InnovaciónUrbana**
 
-![bolso urbano](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/3.urbano.png?raw=true)  
+![3.urbano](https://github.com/RonaldAcost/GoTech/blob/master/3.urbano.png?raw=true)
 > **Imagen 3:** Generada con (Ideagram AI)
 
 ## d. Primer plano de la billetera GoTech
 *"Tecnología y sostenibilidad en el bolsillo. La billetera GoTech es el accesorio perfecto para el viajero consciente. Con materiales ecológicos y funciones inteligentes, ofrece seguridad y estilo sin comprometer el planeta."*  
 **#SostenibilidadConEstilo #EleganciaGoTech #ViajesResponsables**
 
-![billetera](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4.billetera.png?raw=true)  
+![4.billetera](https://github.com/RonaldAcost/GoTech/blob/master/4.billetera.png?raw=true)
 > **Imagen 4:** Generada con (Ideagram AI)
 
 ![billetera 2](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4_billetera.png?raw=true)  
