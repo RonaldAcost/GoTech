@@ -121,12 +121,12 @@
 ![4.billetera](https://github.com/RonaldAcost/GoTech/blob/master/4.billetera.png?raw=true)
 > **Imagen 4:** Generada con (Ideagram AI)
 
-![billetera 2](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/4_billetera.png?raw=true)  
+![4_billetera](https://github.com/RonaldAcost/GoTech/blob/master/4_billetera.png?raw=true)  
 > **Imagen 5:** Generada con (DALL-E)
 
 ## e. Estación de tren futurista con viajeros GoTech
 *"Viaja más allá del presente. En la estación del mañana, GoTech está a tu lado. Maletas inteligentes, bolsos multifuncionales y una comunidad conectada que comparte el camino. Innovación y sostenibilidad para cada paso de tu aventura."*  
 **#FuturoConGoTech #ViajesSinLímites #ConectividadEnMovimiento**
 
-![estación futurista](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/5.estacion.png?raw=true)  
+![5.estacion](https://github.com/RonaldAcost/GoTech/blob/master/5.estacion.png?raw=true)  
 > **Imagen 6:** Generada con (Ideagram AI)
