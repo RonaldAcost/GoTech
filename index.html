@@ -4,270 +4,337 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GoTech - Landing Page</title>
-</head>
-<body>
+<title>GoTech - Identidad de Marca</title>
 <style>
-    /* Estilos generales */
     body {
-        margin: 0;
         font-family: 'Roboto', sans-serif;
         background: #0a0f14;
         color: #d4d4dc;
-        overflow-x: hidden;
+        margin: 0;
+        padding: 0;
     }
 
-    h1, h2, h3, h4, h5, h6 {
-        margin-top: 0;
+    h1, h2, h3 {
         color: #00d1b2; /* Verde Neón */
         font-weight: 700;
+        margin-top: 1.5em;
+    }
+
+    h1 {
+        font-size: 2.2em;
         text-transform: uppercase;
+        letter-spacing: 2px;
+        border-bottom: 2px solid #00d1b2;
+        padding-bottom: 0.5em;
     }
 
-    p, li {
-        color: #e2e2e2;
+    h2 {
+        font-size: 1.8em;
+    }
+
+    h3 {
+        font-size: 1.4em;
+        margin-bottom: 0.5em;
+    }
+
+    p, ul, li {
         line-height: 1.6em;
+        font-size: 1em;
+        color: #e2e2e2;
     }
 
-    a {
-        text-decoration: none;
+    strong {
         color: #00bce6; /* Azul eléctrico */
     }
 
-    /* Contenedor principal */
-    .container {
-        width: 100%;
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 0 1em;
+    em {
+        color: #9fef00; /* Verde lima */
     }
 
-    /* Hero section */
-    .hero {
-        background: linear-gradient(135deg, #00bce6, #00d1b2);
-        color: #0a0f14;
-        text-align: center;
-        padding: 4em 1em;
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 1em 0;
+    }
+
+    ul li {
+        padding: 0.3em 0;
         position: relative;
-        overflow: hidden;
+        padding-left: 20px;
     }
 
-    .hero h1 {
-        font-size: 3em;
-        letter-spacing: 2px;
+    ul li:before {
+        content: "•";
+        color: #9fef00;
+        position: absolute;
+        left: 0;
+        top: 0;
     }
 
-    .hero p {
-        font-size: 1.2em;
-        margin: 1em 0 2em;
-        color: #0a0f14;
-    }
-
-    .hero .cta-btn {
-        display: inline-block;
-        padding: 0.8em 2em;
-        background: #0a0f14;
-        color: #00d1b2;
-        font-weight: bold;
-        border-radius: 50px;
-        transition: background 0.3s;
-    }
-
-    .hero .cta-btn:hover {
-        background: #00d1b2;
-        color: #0a0f14;
-    }
-
-    /* Sección de productos */
-    .products {
-        text-align: center;
-        padding: 3em 0;
-    }
-
-    .products h2 {
-        font-size: 2em;
-    }
-
-    .product-grid {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 2em;
-        margin-top: 2em;
-    }
-
-    .product-card {
-        background: #151a1f;
+    img {
+        max-width: 300px;
         border: 2px solid #00d1b2;
-        border-radius: 10px;
-        padding: 1em;
-        width: 280px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.3);
-        transition: transform 0.3s;
+        border-radius: 8px;
+        margin: 1em 0;
     }
 
-    .product-card:hover {
-        transform: translateY(-5px);
+    hr {
+        border: 0;
+        border-top: 2px solid #00d1b2;
+        margin: 2em 0;
     }
 
-    .product-card img {
-        max-width: 100%;
-        border-radius: 10px;
+    /* Estilos para secciones */
+    .section {
+        padding: 2em;
+        border-bottom: 1px solid #333;
     }
 
-    .product-card h3 {
-        font-size: 1.4em;
-        margin: 0.5em 0;
-        color: #9fef00; /* Verde Lima */
-    }
-
-    .product-card p {
-        font-size: 0.9em;
-        color: #ddd;
-    }
-
-    .product-card a {
-        display: inline-block;
-        margin-top: 1em;
-        background: #00d1b2;
+    /* Encabezados del documento */
+    .main-header {
+        text-align: center;
+        background: linear-gradient(135deg, #00bce6 0%, #00d1b2 100%);
+        padding: 3em 2em;
         color: #0a0f14;
-        padding: 0.5em 1em;
-        border-radius: 50px;
+    }
+
+    .main-header h1 {
+        color: #0a0f14;
+        text-shadow: none;
+        border-bottom: none;
+    }
+
+    .main-header h2 {
+        color: #0a0f14;
+    }
+
+    .main-header p {
+        color: #0a0f14;
+        font-size: 1.2em;
         font-weight: bold;
-        transition: background 0.3s;
     }
 
-    .product-card a:hover {
-        background: #00bce6;
-        color: #0a0f14;
+    /* Links y hashtag */
+    a, strong, em {
+        text-decoration: none;
     }
 
-    /* Sección de testimonio */
-    .testimonials {
-        background: #0f1419;
-        padding: 3em 1em;
-        text-align: center;
+    /* Resaltar hashtags */
+    p strong,
+    p em {
+        display: inline-block;
+        margin: 0.2em 0;
     }
 
-    .testimonials h2 {
-        font-size: 2em;
-        margin-bottom: 2em;
-    }
-
-    .testimonial {
-        max-width: 600px;
-        margin: 0 auto;
-        font-style: italic;
-        color: #e2e2e2;
-        font-size: 1.1em;
-        position: relative;
-    }
-
-    .testimonial::before {
-        content: "“";
-        position: absolute;
-        top: -20px;
-        left: -10px;
-        font-size: 4em;
-        color: #00d1b2;
-    }
-
-    .testimonial::after {
-        content: "”";
-        position: absolute;
-        bottom: -20px;
-        right: -10px;
-        font-size: 4em;
-        color: #00d1b2;
-    }
-
-    /* Footer */
-    footer {
+    /* Tarjetas para imágenes */
+    .image-card {
         background: #151a1f;
-        text-align: center;
-        padding: 2em 1em;
+        padding: 1em;
+        border-radius: 8px;
+        margin-bottom: 2em;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        display: inline-block;
+        max-width: 320px;
+    }
+
+    .image-card img {
+        max-width: 100%;
+        border: 0;
+    }
+
+    .image-card strong {
+        display: block;
+        margin-top: 0.5em;
+    }
+
+    .image-desc {
         font-size: 0.9em;
-        color: #a9a9a9;
+        color: #9fef00;
+        margin-top: 0.5em;
     }
 
-    footer a {
-        color: #00bce6;
-    }
-
-    /* Media queries */
-    @media (max-width: 768px) {
-        .product-grid {
-            flex-direction: column;
-            align-items: center;
-        }
-        .hero h1 {
-            font-size: 2em;
-        }
+    /* Ajustes responsivos */
+    @media (max-width: 600px) {
+        h1 { font-size: 1.8em; }
+        h2 { font-size: 1.4em; }
+        .main-header { padding: 2em; }
+        img { max-width: 100%; }
     }
 </style>
+</head>
+<body>
 
-<!-- Contenido de la landing page -->
-<div class="hero">
-    <div class="container">
-        <h1>GoTech</h1>
-        <p>Tecnología que te acompaña, libertad que te inspira</p>
-        <a href="#productos" class="cta-btn">Explora Nuestros Productos</a>
-    </div>
+<div class="main-header">
+    <h1>GoTech R-26</h1>
+    <h2>Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje</h2>
+    <p>Creando experiencias tecnológicas para el viajero moderno</p>
 </div>
 
-<div class="products" id="productos">
-    <div class="container">
-        <h2>Nuestros Productos</h2>
-        <div class="product-grid">
-            <div class="product-card">
-                <img src="https://github.com/RonaldAcost/GoTech/blob/master/imagen%201%20maleta..jpg?raw=true" alt="Maleta">
-                <h3>Maleta Inteligente</h3>
-                <p>La compañera perfecta para el nómada digital. Resistente, conectada y lista para la aventura.</p>
-                <a href="#comprar">Comprar</a>
-            </div>
-
-            <div class="product-card">
-                <img src="https://github.com/RonaldAcost/GoTech/blob/master/Go.png?raw=true" alt="Bolso Urbano">
-                <h3>Bolso Urbano</h3>
-                <p>Diseño elegante y funcional. Perfecto para la ciudad o viajes cortos. Mantén tus dispositivos a salvo.</p>
-                <a href="#comprar">Comprar</a>
-            </div>
-
-            <div class="product-card">
-                <img src="https://github.com/RonaldAcost/GoTech/blob/master/Maleta%202.png?raw=true" alt="Maleta Futurista">
-                <h3>Maleta Futurista</h3>
-                <p>Seguridad, conectividad y comodidad extrema. Tu aliada en aeropuertos y destinos globales.</p>
-                <a href="#comprar">Comprar</a>
-            </div>
-        </div>
-    </div>
+<div class="section">
+    <h2>1. Portada</h2>
+    <p><strong>Nombre de la Marca:</strong> GoTech</p>
+    <p><strong>Eslogan:</strong> "Tecnología que te acompaña, libertad que te inspira"</p>
+    <p><strong>Logotipo:</strong></p>
+    <img src="https://github.com/RonaldAcost/GoTech/blob/master/logo%20trasparente.png?raw=true" alt="logo trasparente">
+    <p><strong>Imagen 1:</strong> (Generada con DALL-E)</p>
+    <p><strong>Descripción del Logo:</strong><br>
+    "Un globo terráqueo con líneas conectadas formando una red digital similar a circuitos, con un símbolo de brújula en el centro. El estilo es futurista, con una estética brillante y metálica, usando colores azul eléctrico y verde neón."
+    </p>
 </div>
 
-<div class="testimonials">
-    <div class="container">
-        <h2>Testimonios</h2>
-        <div class="testimonial">
-            "Desde que uso GoTech, mis viajes se han vuelto más fáciles y conectados. Me encanta poder cargar mi teléfono sin preocuparme y tener siempre mi equipaje organizado."
-        </div>
-    </div>
+<div class="section">
+    <h2>2. Identidad de Marca</h2>
+    <h3>Misión:</h3>
+    <p>"Facilitar la vida de los nómadas digitales a través de productos innovadores que combinan comodidad, practicidad, y calidad con tecnología avanzada. Nos comprometemos a crear maletas, bolsos y billeteras que se adapten a los estilos de vida modernos, aportando soluciones inteligentes para viajar de forma más eficiente, segura y conectada."</p>
+
+    <h3>Visión:</h3>
+    <p>"Convertirnos en la marca líder a nivel mundial para los nómadas digitales y aventureros, inspirando a las personas a explorar el mundo sin límites, ofreciendo productos que integren tecnología, estilo y funcionalidad. Queremos ser reconocidos por redefinir el concepto de viajar, aportando soluciones innovadoras que hagan cada experiencia más cómoda, conectada y sostenible."</p>
+
+    <h3>Valores:</h3>
+    <ul>
+      <li><strong>Libertad:</strong> Promover la libertad de movimiento y la facilidad de exploración.</li>
+      <li><strong>Durabilidad:</strong> Garantizar que nuestros productos soporten las aventuras más intensas y largas.</li>
+      <li><strong>Estilo:</strong> Mezclar la moda y la funcionalidad para que los viajeros siempre luzcan con estilo.</li>
+      <li><strong>Sostenibilidad:</strong> Diseñar accesorios con materiales eco-amigables que minimicen el impacto ambiental.</li>
+      <li><strong>Innovación:</strong> Integrar tecnología inteligente en cada producto para mejorar la experiencia del viajero moderno.</li>
+    </ul>
 </div>
 
-<footer>
-    <p>© 2024 GoTech. Todos los derechos reservados. <a href="#contacto">Contáctanos</a></p>
-</footer>
+<div class="section">
+    <h2>3. Propuesta de Valor</h2>
+    <p>"Somos la única marca que integra tecnología inteligente directamente en maletas, bolsos y billeteras, ofreciendo comodidad, seguridad y conectividad en un solo producto. Con materiales sostenibles y un enfoque en la innovación, nuestros accesorios no solo acompañan, sino que potencian la experiencia del nómada digital."</p>
+</div>
 
-<script>
-    // Ejemplo simple de JavaScript para una animación en el botón de CTA
-    document.addEventListener('DOMContentLoaded', function() {
-        const ctaBtn = document.querySelector('.cta-btn');
-        ctaBtn.addEventListener('mouseover', function() {
-            ctaBtn.style.transform = "scale(1.05)";
-        });
-        ctaBtn.addEventListener('mouseout', function() {
-            ctaBtn.style.transform = "scale(1)";
-        });
-    });
-</script>
+<hr>
+
+<div class="main-header">
+    <h1>GoTech R-27</h1>
+    <h2>Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje</h2>
+    <p>Contenido Visual y Estrategia de Marketing</p>
+</div>
+
+<div class="section">
+    <h2>1. Sección de Contenido Visual para Redes Sociales</h2>
+    <h3>Imágenes Promocionales:</h3>
+
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/imagen%201%20maleta..jpg?raw=true" alt="Bolsa GoTech">
+      <strong>Imagen 1:</strong> (Generada con Canva)
+      <p class="image-desc">"Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."</p>
+    </div>
+
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/Go.png?raw=true" alt="Go">
+      <strong>Imagen 2:</strong> (Generada con Canva)
+      <p class="image-desc">Edición en Canva: Se aplicaron colores que transmiten modernidad (azul eléctrico y verde neón) y se usó tipografía elegante para resaltar el mensaje.</p>
+    </div>
+
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/imagen%202%20maleta%20._.jpg?raw=true" alt="imagen 2 maleta">
+      <strong>Imagen 3:</strong> (Generada con Canva)
+      <p class="image-desc">"La maleta futurista, diseñada para la máxima comodidad, es destacada en este entorno de aeropuerto, simbolizando seguridad y conectividad."</p>
+    </div>
+
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/Maleta%202.png?raw=true" alt="Maleta 2">
+      <strong>Imagen 4:</strong> (Generada con Canva)
+      <p class="image-desc">Edición en Canva: Se agregó un filtro brillante para enfatizar la calidad premium y se ajustaron colores para que coincidan con la identidad visual de la marca.</p>
+    </div>
+
+    <h3>Mensajes Publicitarios:</h3>
+    <ul>
+      <li>"Acompañando cada paso de tu aventura."</li>
+      <li>"Estilo y funcionalidad, siempre contigo."</li>
+    </ul>
+    <p><em>Explicación:</em> Estos mensajes reflejan la identidad de la marca al resaltar la combinación de tecnología, estilo y practicidad que ofrecemos, alineándose con el estilo de vida del viajero moderno.</p>
+</div>
+
+<div class="section">
+    <h2>2. Redacción de Descripciones de Productos</h2>
+
+    <h3>Descripción de Producto 1 (Maleta):</h3>
+    <p>"Nuestra maleta GoTech está diseñada pensando en los nómadas digitales. Con un material resistente y compartimentos inteligentes, permite mantenerte organizado sin esfuerzo. La tecnología integrada te brinda conectividad para un viaje seguro y eficiente."</p>
+
+    <h3>Descripción de Producto 2 (Bolso):</h3>
+    <p>"El bolso urbano de GoTech es ideal para los días ajetreados en la ciudad o aventuras espontáneas. Su diseño práctico y elegante combina perfectamente con un estilo de vida activo, proporcionando comodidad y funcionalidad sin comprometer el estilo."</p>
+
+    <h3>Tono de Marca:</h3>
+    <p><strong>Elegante, Confiable y Práctico:</strong> Queremos conectar con una audiencia moderna y dinámica que aprecia el estilo tanto como la funcionalidad. El tono de comunicación es cercano, motivador y enfocado en las necesidades de los viajeros actuales.</p>
+</div>
+
+<div class="section">
+    <h2>3. Estrategia de Marketing Digital Inicial</h2>
+
+    <h3>Calendario de Publicaciones (2-3 semanas):</h3>
+    <ul>
+      <li><strong>Semana 1:</strong> Publicación de una imagen promocional del bolso en Instagram y Facebook. Destacar su estilo y funcionalidad.</li>
+      <li><strong>Semana 2:</strong> Video promocional mostrando la maleta en uso, destacando su tecnología integrada. Publicación en Instagram Stories y Facebook.</li>
+      <li><strong>Semana 3:</strong> Testimonio de un usuario real sobre la comodidad de nuestros productos. Publicación en Instagram.</li>
+    </ul>
+
+    <h3>Resumen de la Estrategia de Lanzamiento:</h3>
+    <p>La estrategia de marketing tiene como objetivo aumentar el conocimiento de la marca y conectar con el público objetivo, destacando la funcionalidad tecnológica y el estilo de nuestros productos. Se utilizarán imágenes impactantes y videos breves que muestren la experiencia real de uso de los productos en situaciones de viaje.</p>
+
+    <h3>Frecuencia de Publicación:</h3>
+    <p><strong>3 veces por semana:</strong> Los lunes se destacará un producto, los miércoles se compartirán mensajes inspiradores sobre la libertad de viajar, y los viernes testimonios o consejos útiles para nómadas digitales.</p>
+</div>
+
+<hr>
+
+<div class="main-header">
+    <h1>GoTech R-28</h1>
+    <h2>Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje</h2>
+    <p>Imágenes y Campañas Publicitarias Futuristas</p>
+</div>
+
+<div class="section">
+    <h3>Generación de Imágenes y Campañas Publicitarias:</h3>
+
+    <h2>a. Maleta Futurista en el Aeropuerto</h2>
+    <p><em>"Conecta tu viaje al futuro. La maleta GoTech te acompaña con tecnología inteligente, comodidad sin precedentes y diseño aerodinámico. Viajar nunca ha sido tan seguro y conectado."</em></p>
+    <p><strong>#GoTech #ViajarConEstilo #TecnologíaQueInspira</strong></p>
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/1.maleta.png?raw=true" alt="1.maleta">
+      <strong>Imagen 1:</strong> Generada con (Ideagram AI)
+    </div>
+
+    <h2>b. Nómada digital en el acantilado</h2>
+    <p><em>"Libertad, conexión y aventura, todo en un solo lugar. Con GoTech, tus dispositivos se mantienen cargados mientras exploras el mundo. Diseño sustentable, tecnología avanzada, y el horizonte como límite."</em></p>
+    <p><strong>#ViveConectado #ExploraConGoTech #NómadasDigitales</strong></p>
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/2.nomada.png?raw=true" alt="2.nomada">
+      <strong>Imagen 2:</strong> Generada con (DALL-E)
+    </div>
+
+    <h2>c. Calle urbana con el bolso GoTech</h2>
+    <p><em>"Diseñado para la ciudad del futuro. El bolso inteligente GoTech no solo te acompaña, sino que ilumina tu camino. Estilo vanguardista, conectividad y elegancia en cada detalle. Muévete con confianza."</em></p>
+    <p><strong>#EstiloCyberpunk #GoTechEnLaCiudad #InnovaciónUrbana</strong></p>
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/3.urbano.png?raw=true" alt="3.urbano">
+      <strong>Imagen 3:</strong> Generada con (Ideagram AI)
+    </div>
+
+    <h2>d. Primer plano de la billetera GoTech</h2>
+    <p><em>"Tecnología y sostenibilidad en el bolsillo. La billetera GoTech es el accesorio perfecto para el viajero consciente. Con materiales ecológicos y funciones inteligentes, ofrece seguridad y estilo sin comprometer el planeta."</em></p>
+    <p><strong>#SostenibilidadConEstilo #EleganciaGoTech #ViajesResponsables</strong></p>
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/4.billetera.png?raw=true" alt="4.billetera">
+      <strong>Imagen 4:</strong> Generada con (Ideagram AI)
+    </div>
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/4_billetera.png?raw=true" alt="4_billetera">
+      <strong>Imagen 5:</strong> Generada con (DALL-E)
+    </div>
+
+    <h2>e. Estación de tren futurista con viajeros GoTech</h2>
+    <p><em>"Viaja más allá del presente. En la estación del mañana, GoTech está a tu lado. Maletas inteligentes, bolsos multifuncionales y una comunidad conectada que comparte el camino. Innovación y sostenibilidad para cada paso de tu aventura."</em></p>
+    <p><strong>#FuturoConGoTech #ViajesSinLímites #ConectividadEnMovimiento</strong></p>
+    <div class="image-card">
+      <img src="https://github.com/RonaldAcost/GoTech/blob/master/5.estacion.png?raw=true" alt="5.estacion">
+      <strong>Imagen 6:</strong> Generada con (Ideagram AI)
+    </div>
+
+</div>
 
 
     <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
