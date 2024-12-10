@@ -1,6 +1,5 @@
 <h1 align="center">GoTech R-26</h1>
 
-
 # Construcción de la Identidad de Marca para una Empresa de Accesorios de Viaje
 
 **1. Portada**
