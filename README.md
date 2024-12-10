@@ -50,11 +50,11 @@
   > **Imagen 2**: (Generada con Canva)  
   - **Edición en Canva**: Se aplicaron colores que transmiten modernidad (azul eléctrico y verde neón) y se usó tipografía elegante para resaltar el mensaje.
 
-  ![Maleta 2](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%202%20maleta%20._.jpg?raw=true)  
+  ![imagen 2 maleta](https://github.com/RonaldAcost/GoTech/blob/master/imagen%202%20maleta%20._.jpg?raw=true)
   > **Imagen 3**: (Generada con Canva)
   - **Descripción**: "La maleta futurista, diseñada para la máxima comodidad, es destacada en este entorno de aeropuerto, simbolizando seguridad y conectividad."
 
-  ![Maleta Premium](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/Maleta%202.png?raw=true)  
+  ![Maleta 2](https://github.com/RonaldAcost/GoTech/blob/master/Maleta%202.png?raw=true)
   > **Imagen 4**: (Generada con Canva)  
   - **Edición en Canva**: Se agregó un filtro brillante para enfatizar la calidad premium y se ajustaron colores para que coincidan con la identidad visual de la marca.
 
