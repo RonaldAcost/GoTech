@@ -8,7 +8,7 @@
 - **Nombre de la Marca**: GoTech  
 - **Eslogan**: "Tecnología que te acompaña, libertad que te inspira"  
 - **Logotipo**:  
-  ![Logotipo GoTech](https://github.com/user-attachments/assets/66255eda-d46e-47b4-94ef-1a9e6a4df574.png?raw=true)  
+  ![logo trasparente](https://github.com/RonaldAcost/GoTech/blob/master/logo%20trasparente.png?raw=true)
   > **Imagen 1**: (Generada con DALL-E)
 
 - **Descripción del Logo**:  
