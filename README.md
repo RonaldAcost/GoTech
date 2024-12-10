@@ -42,7 +42,7 @@
 
 - **Imágenes Promocionales**:
 
-  ![Bolsa GoTech](https://github.com/RonaldAcost/GoTech/blob/proyectodemoprewor/imagen%201%20maleta..jpg?raw=true)  
+  ![Bolsa GoTech](https://github.com/RonaldAcost/GoTech/blob/master/imagen%201%20maleta..jpg?raw=true)
   > **Imagen 1**: (Generada con Canva)
   - **Descripción**: "Esta imagen representa la combinación de tecnología avanzada y estilo que define a nuestra marca, mostrando a un viajero moderno con nuestro bolso inteligente en un entorno urbano."
 
